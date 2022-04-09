@@ -2,7 +2,6 @@
 
 I'm a data analyst who enjoys basketball 🏀, gaming 🎮 and everything data related 📊.
 
-
 ## Here are my social media links:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/EChristo23?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Eechristo23&screen_name=echristo23)
