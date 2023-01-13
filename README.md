@@ -1,6 +1,6 @@
 # Hi there, I'm Esdras 👋 
 
-I'm a data analyst who enjoys basketball 🏀, gaming 🎮 and everything data related 📊.
+I'm a data analyst who's into basketball 🏀, gaming 🎮 and everything data related 📊.
 
 ## Here are my social media links:
 
